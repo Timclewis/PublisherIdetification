@@ -1,6 +1,7 @@
 /publishers
 /extrapublishers
 /xception_publisherid/
+/allpublishers/
 GoodReads_100k_books.csv
 Ratings.csv
 Users.csv
