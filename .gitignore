@@ -6,3 +6,5 @@
 GoodReads_100k_books.csv
 Ratings.csv
 Users.csv
+/tensorboard_logs/
+/Efficient_publisherid/
